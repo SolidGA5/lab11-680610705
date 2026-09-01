@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : ภูพิงค์ ชมภูบาง
 
-GitHub Page URL : https://github.com/SolidGA5/lab11-680610705
+GitHub Page URL : https://solidga5.github.io/lab11-680610705/
 
 ---
 
